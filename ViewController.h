@@ -20,5 +20,7 @@ typedef NS_ENUM(NSInteger, CYLSex)
 
 @property (nonatomic ,strong) NSString *string;
 
+@property ();
+
 @end
 
